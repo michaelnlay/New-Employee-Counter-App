@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background: url(./img/302919644_10167051538860268_896200160427037730_n.jpg)no-repeat center center fixed ;
+    /* -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover; */
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+    font-size: xx-large;
+}
+
+.special-bold{
+    font-size: 125px;
+    font-weight: bolder;
+}
+
+#increment-btn{
+    width: 200px;
+    height: 50px ;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    font-size: large;
+    border: none;
+    margin-bottom: 10px;
+ 
+}
+
+#save-btn{
+    width: 200px;
+    height: 50px ;
+    border-radius: 5px;
+    background-color: orange;
+    color: white;
+    font-size: large;
+    border: none;
+}
